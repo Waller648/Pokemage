@@ -1,4 +1,4 @@
-const tb = require("tb93");
+const tb = require("./tb93");
 let bot = new tb.Trollbox(new tb.User("Pokemage [p!h]", "#3DC12F;bot"),true);
 const he = require("he")
 let devs = ["MTYwNjA","MzhjMDQ", "MmZkM2Q", "NDViZjE", "MWQwODc", "MmE4ZDI", "MmYODM0", "OTBmYjI", "MWQwNDY", "MmZkNDN", "MTM5MmY"]
